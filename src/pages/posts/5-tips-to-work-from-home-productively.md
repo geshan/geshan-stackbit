@@ -21,11 +21,15 @@ It is said that Sir Isaac Newton discovered gravity while [working from home](ht
 
 ### 1. Have a dedicated workspace
 
-Create a [dedicated workspace](https://www.entrepreneur.com/article/207306) with a work desk at home. It is best to not work from anywhere like the couch or bed. It gives you a physical sense of you are at work and this is the place to work. If you are used to an extra monitor get is organized. Especially for people who write code, I think it is great to have another monitor. Invest in other things too like a comfortable chair. Try to find a quiet space with enough light and good air circulation.
+Create a [dedicated workspace](https://www.entrepreneur.com/article/207306) with a work desk at home. It is best to not work from anywhere like the couch or bed. It gives you a physical sense of you are at work and this is the place to work. If you are used to an extra monitor get is organized. 
+
+> Especially for people who write code, I think it is great to have another monitor. Invest in other things too like a comfortable chair. 
+
+Try to find a quiet space with enough light and good air circulation.
 
 ### 2. Know your tools and tech
 
-It goes without saying that a slow internet connection will ruin your work from home experience. If you can get a faster internet connection, this is needed for all the video conferencing calls and meetings you are going to have. Depending on the tech and software you use get used to the tips and tricks of those software products. For example this [push to talk](https://support.zoom.us/hc/en-us/articles/360000510003-Push-to-Talk) feature in Zoom was very useful for me. Other things like turning your camera on and knowing how and when to use screen sharing are also very helpful to be more productive and stay efficient.
+It goes without saying that a slow internet connection will ruin your work from home experience. If you can get a faster internet connection, this is needed for all the video conferencing calls and meetings you are going to have. Depending on the tech and software you use to get used to the tips and tricks of those software products. For example, this [push to talk](https://support.zoom.us/hc/en-us/articles/360000510003-Push-to-Talk) feature in Zoom was very useful for me. Other things like turning your camera on and knowing how and when to use screen sharing are also very helpful to be more productive and stay efficient.
 
 ### 3. Set boundaries and have fixed hours
 
