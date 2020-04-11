@@ -3,8 +3,8 @@
   "layout_style": "overflow",
   "palette": "green",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
+    "title": "Geshan's Blog",
+    "tagline": "A blog about software engineering, devops and web development.",
     "profile_img": "/images/geshan.jpg",
     "bg": "dark",
     "has_nav": true,
