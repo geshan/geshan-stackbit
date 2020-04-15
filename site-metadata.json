@@ -1,6 +1,6 @@
 {
   "title": "Geshan's Blog",
-  "layout_style": "default",
+  "layout_style": "overflow",
   "palette": "green",
   "header": {
     "title": "Geshan's Blog",
@@ -14,8 +14,8 @@
     "content": "&copy; All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Geshan Manandhar",
+        "url": "https://geshan.com.np",
         "new_window": true
       }
     ]
