@@ -23,7 +23,7 @@ sections:
     and servereless. He has spoken at tech conferences in 4 continents. He is actively
     involved with the developer community in his hometown Kathmandu, Nepal. He occasionally
     blogs in his free time."
-  image: "/images/geshan.jpg"
+  image: ''
 - type: postsblock
   template: postsblock
   title: Recent Posts
