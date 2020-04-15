@@ -5,7 +5,7 @@ subtitle: " This post will unveil 5 actionable things to work from home producti
   and more efficiently"
 date: 2020-04-11T11:00:00Z
 thumb_img_path: "/images/01work-from-home-tips-large.jpg"
-content_img_path: "/images/djurdjica-boskovic-G8_A4ZWxE3E-unsplash.jpg"
+content_img_path: "/images/01work-from-home-tips-large.jpg"
 excerpt: I have worked from home 3 days a week for 8 months out of the last 12 months.
   It was like switching to a full 5 days a week mode from 60%. Some people now have
   worked days or weeks from home, so this post will unveil 5 actionable things to
