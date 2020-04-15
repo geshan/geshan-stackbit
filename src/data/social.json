@@ -7,10 +7,10 @@
       "url": "https://twitter.com/geshan"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/geshan"
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://linkedin.com/in/geshan"
     },
     {
       "type": "github",
@@ -19,10 +19,10 @@
       "url": "https://github.com/geshan"
     },
     {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://linkedin.com/in/geshan"
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/geshan"
     },
     {
       "type": "devto",
